@@ -1,1 +1,3 @@
-# 1APL2023
+### 1APL2023
+# Allan Diego Gonçalves
+## Pensamento Computacional 
